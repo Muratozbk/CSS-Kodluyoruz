@@ -1,0 +1,22 @@
+/******** Layout ********/
+
+body {
+    background-color: black;
+    color: bisque;
+    font-family:  'Rubik Vinyl', cursive;
+}  
+
+h2 {
+      color:red;
+      font-size: 74px;
+      text-transform: uppercase;
+}
+p {    
+    font-size: 40px;
+    text-transform: uppercase;
+}
+ 
+ul {
+  color:blue ;
+}
+ 
