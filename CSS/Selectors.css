@@ -5,6 +5,25 @@
 
 /* css selectors */
 
+ /* li:first-child {
+    color: green;
+}
+
+li:last-child {
+    color: aqua;
+} */
+
+/* li:nth-child(odd) {
+    color: red;
+}
+
+li:nth-child(even) {
+    background-color: blueviolet;
+} */
+
+li:nth-child(2n-1) {
+    color: blueviolet;
+}
 .color-blue .fw-normal {
     color: blue;
     font-weight: normal;
