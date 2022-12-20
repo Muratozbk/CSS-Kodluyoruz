@@ -1,0 +1,44 @@
+/******* Layout *******/
+
+/* class -> .text-red {} */
+/* id -> #id-bilgisi {} */
+
+/* css selectors */
+
+ /* li:first-child {
+    color: green;
+}
+
+li:last-child {
+    color: aqua;
+} */
+
+/* li:nth-child(odd) {
+    color: red;
+}
+
+li:nth-child(even) {
+    background-color: blueviolet;
+} */
+
+/* li:nth-child(2n-1) {
+    color: blueviolet;
+}
+.color-blue .fw-normal {
+    color: blue;
+    font-weight: normal;
+} */
+
+/* #first-article {
+    font-size: 40px;
+} */
+
+ 
+ 
+  /* a[target] {
+    background-color: violet;
+  } */
+
+  a[target] {
+    background-color: violet;
+  }
